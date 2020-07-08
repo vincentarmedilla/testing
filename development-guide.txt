@@ -1,4 +1,4 @@
-A) Project:
+A) Project: test test
     - GIT Repository - https://git.code.sf.net/p/phpscheduleit/source
     - To contribute and submit your code please contact Nick Korbel <nick@twinkletoessoftware.com>
     - Programming paradigm: toward 100% object oriented PHP5
